@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a72639-53f8-4297-8414-a9566de562c7" name="Changes" comment="" />
+    <list default="true" id="c0a72639-53f8-4297-8414-a9566de562c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/data/GoggleClassAuthUIClient.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/data/SignInResult.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/presentation/profile/ProfileScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/presentation/sign_in/SignInScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/presentation/sign_in/SignInState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasCardDigitalID/app/src/main/java/com/example/tugascarddigitalid/presentation/sign_in/SignInViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/androidTest/java/com/example/tugas/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/java/com/example/tugas/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/java/com/example/tugas/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/java/com/example/tugas/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/java/com/example/tugas/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/app/src/test/java/com/example/tugas/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tugas/settings.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +68,34 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sideEffek" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="38BrdfmEvbat1DIo4KjMmNPHXL6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,12 +103,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/ASUS/AndroidStudioProjects/sideEffek",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Android-Programming/sideEffek",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

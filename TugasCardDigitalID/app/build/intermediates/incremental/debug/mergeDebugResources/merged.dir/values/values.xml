@@ -418,14 +418,14 @@
     <string name="fingerprint_error_no_fingerprints">No fingerprints enrolled.</string>
     <string name="fingerprint_error_user_canceled">Fingerprint operation canceled by user.</string>
     <string name="fingerprint_not_recognized">Not recognized</string>
-    <string name="gcm_defaultSenderId" translatable="false">444331049983</string>
+    <string name="gcm_defaultSenderId" translatable="false">682459097188</string>
     <string name="generic_error_no_device_credential">No PIN, pattern, or password set.</string>
     <string name="generic_error_no_keyguard">This device does not support PIN, pattern, or password.</string>
     <string name="generic_error_user_canceled">Authentication canceled by user.</string>
-    <string name="google_api_key" translatable="false">AIzaSyBxzujfBDBHr4PhYdaMtDzlQv2MnL9Lj6k</string>
-    <string name="google_app_id" translatable="false">1:444331049983:android:8429e0ff52ff85ad625dca</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxzujfBDBHr4PhYdaMtDzlQv2MnL9Lj6k</string>
-    <string name="google_storage_bucket" translatable="false">tugascarddigitalid-40a92.firebasestorage.app</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJjtCRW1mAahrYqyoDbyG1Szccr0y3XBg</string>
+    <string name="google_app_id" translatable="false">1:682459097188:android:cac5d2c889460487f09771</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJjtCRW1mAahrYqyoDbyG1Szccr0y3XBg</string>
+    <string name="google_storage_bucket" translatable="false">tugascarddigitalid-95741.firebasestorage.app</string>
     <string name="in_progress">In progress</string>
     <string name="indeterminate">Partially checked</string>
     <string name="m3c_bottom_sheet_collapse_description">Collapse bottom sheet</string>
@@ -491,7 +491,7 @@
     <string name="m3c_tooltip_pane_description">Tooltip</string>
     <string name="navigation_menu">"Navigation menu"</string>
     <string name="not_selected">Not selected</string>
-    <string name="project_id" translatable="false">tugascarddigitalid-40a92</string>
+    <string name="project_id" translatable="false">tugascarddigitalid-95741</string>
     <string name="range_end">"Range end"</string>
     <string name="range_start">"Range start"</string>
     <string name="search_menu_title">Search</string>
@@ -506,7 +506,7 @@
     <string name="template_percent"><ns1:g id="percentage">%1$d</ns1:g> percent.</string>
     <string name="tooltip_description">tooltip</string>
     <string name="tooltip_label">show tooltip</string>
-    <string name="web_client_id">444331049983-77nqef2pov3u55nrcts37ph5ld82474b.apps.googleusercontent.com</string>
+    <string name="web_client_id">682459097188-eu0ncbf4p36s7rs8jmnbiv0cf5g5i0os.apps.googleusercontent.com</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

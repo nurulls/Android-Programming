@@ -1,13 +1,13 @@
-#Tue Jan 13 12:53:15 WIB 2026
-base.0=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.3=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.4=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.5=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.6=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.7=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.8=D\:\\Android-Programming\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Tue Jan 13 12:51:02 WIB 2026
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.4=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.5=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.6=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.7=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.8=C\:\\Users\\ASUS\\AndroidStudioProjects\\TugasCardDigitalID\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex

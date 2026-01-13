@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sideEffek.iml" filepath="$PROJECT_DIR$/.idea/sideEffek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sideEffek.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sideEffek.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sideEffek.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sideEffek.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sideEffek.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sideEffek.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sideEffek.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sideEffek.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sideEffek.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sideEffek.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sideEffek.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sideEffek.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sideEffek.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sideEffek.unitTest.iml" />
+    </modules>
+  </component>
+</project>

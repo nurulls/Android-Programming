@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.cdimascio:dotenv-kotlin:6.5.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.github.cdimascio" artifactId="dotenv-kotlin" version="6.5.1" baseVersion="6.5.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.cdimascio/dotenv-kotlin/6.5.1/47f89474eab362431e6fe49d1b6c123225a0eb97/dotenv-kotlin-6.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.cdimascio/dotenv-kotlin/6.5.1/e4b8067518ca6f39527561d871c03324ab64df56/dotenv-kotlin-6.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.cdimascio/dotenv-kotlin/6.5.1/a2e36481559423a495046e15bb9015f12a4c0db0/dotenv-kotlin-6.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
