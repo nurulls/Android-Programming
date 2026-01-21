@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351595347817",
+    "project_id": "todolistquiz",
+    "storage_bucket": "todolistquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351595347817:android:09218c49346ee2299087f8",
+        "android_client_info": {
+          "package_name": "com.example.todolistquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmD95qCpVXB5BzmK-Wr8wigMgh4ick6EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
