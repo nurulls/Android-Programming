@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827633705015",
+    "project_id": "dailymood-uas",
+    "storage_bucket": "dailymood-uas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827633705015:android:2a57c89fd5a16a11de9fb2",
+        "android_client_info": {
+          "package_name": "com.example.dailymooduas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgl7E0XFGzcuEOkzICQp6GQUNqSNzlD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
